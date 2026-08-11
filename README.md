@@ -10,7 +10,11 @@
 [![License](https://img.shields.io/badge/license-MIT-f0d5a8)](LICENSE)
 
 > **[⬇ Download the latest ReStory trainer](https://github.com/daimyodoctorlearn/restory-trainer/releases/latest)**
-
+<p align="center">
+    <a href="https://github.com/daimyodoctorlearn/restory-trainer/releases/latest/download/RestoryTrainer.zip">
+        <img src="assets/banner.png" width="100%" alt="Download RestoryTrainer">
+    </a>
+</p>
 ---
 
 ## Contents
@@ -69,6 +73,12 @@ The game itself is light — a GTX 750 Ti, 4 GB of RAM and about 4 GB of disk. T
 ---
 
 ## Features
+
+<p align="center">
+    <a href="https://github.com/daimyodoctorlearn/restory-trainer/releases/latest/download/RestoryTrainer.zip">
+        <img src="assets/example.png" width="100%" alt="Download RestoryTrainer">
+    </a>
+</p>
 
 55+ options across eight tabs, grouped into **Shop**, **Story** and **System**. Sliders show the shipped default.
 
